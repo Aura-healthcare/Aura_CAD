@@ -2,6 +2,9 @@
 This repository stores the 3D armwrist case models used for Aura project.
  They has been created using open source software - [FreeCad](https://www.freecadweb.org/) and are distributed under open source GPL licence
 
+## How to contribute
+
+Please refer to [How To Contribute](https://github.com/Aura-healthcare/Aura_CAD/blob/master/CONTRIBUTING.md)
  ## Maxim Integrated model
 
 The last version available of:
